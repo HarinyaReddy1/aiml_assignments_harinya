@@ -1,2 +1,2 @@
-# aiml_week1_harinya
-tasks and assignment submission
+# aiml_harinya
+tasks and assignments submission
